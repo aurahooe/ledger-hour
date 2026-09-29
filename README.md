@@ -1,2 +1,1 @@
-# ledger-hour
-The Hour Ledger — a living public desk that turns over every hour
+# The Hour Ledger\n\nA small public desk. Sign in, write, mark a piece public. Every hour the house features one public note.\n
